@@ -1,1 +1,1 @@
-/Users/chs/Rust/practice/guessing_game/target/debug/guessing_game: /Users/chs/Rust/practice/guessing_game/src/main.rs
+/Users/chs/Rust/Rust_practice/guessing_game/target/debug/guessing_game: /Users/chs/Rust/Rust_practice/guessing_game/src/main.rs
